@@ -1,0 +1,14 @@
+page: yes
+menu: no
+tags: language
+permalink:/impossible/00002
+title: 00002
+
+nothing at all is known about the impossible. it cannot be represented. we have no language to talk about it. we have no way to think about it. we cannot approach it. we cannot inhabit the impossible.
+
+---
+<center>
+[ <- ](00001) | [ -> ](00003)
+
+![](https://posthumanist.net.s3.amazonaws.com/public/tensor.jpg)
+</center>

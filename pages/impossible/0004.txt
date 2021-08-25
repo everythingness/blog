@@ -1,0 +1,14 @@
+page: yes
+menu: no
+tags: introduction
+permalink:/impossible/00004
+title: 00004
+
+that is not possible yet.
+
+---
+<center>
+[ <- ](00002) | [ -> ](00003)
+
+![](https://posthumanist.net.s3.amazonaws.com/public/tensor.jpg)
+</center>

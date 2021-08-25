@@ -1,0 +1,27 @@
+page: yes
+menu: no
+tags: introduction 
+permalink:/impossible/00000
+title: 00000
+
+## a limited catalogue of impossible things
+
+> everything that you can think of, as well as everything you can't, could be divided into things that are possible and things that are impossible, right? but how useful is such a division? it seems to be in the first place about efficiency and productivity. 'let's be realistic!', they cry. 'let's not waste time. what's the point of thinking about impossible things?'
+
+but i say : maybe thinking about the impossible is not pointless, actually.
+
+{<} <small> fifteen years ago i made an art work called 'a limited catalogue of endless things'. the title came from a passage in a story by jorge luis borges called 'the aleph'. but this is not art, this is a story which could have been written by borges, it's weird enough, but it wasn't - at least as far as i know - and it's not fiction, it's a true story, a sad one. </small>
+
+we spend a lot of time and energy sifting things into 'possible' and 'impossible' — using reason mostly but also emotion, intuition. there is a big pile of things and we pick up each thing in turn, look at it and say, yes that is possible and no that would be impossible and then we put it on the appropriate pile — and that's it. once something is in the impossible pile you never have to think about it again. because what would be the use of thinking about things that are impossible? and yet... many impossible things have happened and are happening all the time. and then we say, oh i was wrong when i put that in the impossible pile, that was not actually impossible. and yet...
+
+so. are you ready? let's [begin](00001).
+
+
+
+---
+<center>
+[ <- ]() | [ -> ](00001)
+
+![](https://posthumanist.net.s3.amazonaws.com/public/tensor.jpg)
+</center>
+

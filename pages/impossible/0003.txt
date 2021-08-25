@@ -1,0 +1,18 @@
+page: yes
+menu: no
+tags: introduction
+permalink:/impossible/00003
+title: 00003
+
+# 2 x 2 = 5
+
+> In Fyodor Dostoyevsky's *Notes from Underground*, the protagonist implicitly supports the idea of two times two making five, spending several paragraphs considering the implications of rejecting the statement "two times two makes four." His purpose is not ideological, however. Instead, he proposes that it is the free will to choose or reject the logical as well as the illogical that makes mankind human. 
+
+> [— wikipedia](https://en.wikipedia.org/wiki/2_%2B_2_%3D_5)
+
+---
+<center>
+[ <- ](00002) | [ -> ](00004)
+
+![](https://posthumanist.net.s3.amazonaws.com/public/tensor.jpg)
+</center>

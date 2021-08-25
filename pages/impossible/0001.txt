@@ -1,0 +1,16 @@
+page: yes
+menu: no
+tags: introduction, religion 
+permalink:/impossible/00001
+title: 00001
+
+of course there was a time when the impossible pile was a lot more porous because there were more or less omnipotent more or less supernatural beings for whom nothing was impossible and one could appeal to them, pray to them, beseech them, to move something from the impossible to the possible pile and indeed from the possible pile into actuality. and sometimes, lo! a miracle... your prayer would be heard and your wish was granted.
+
+and there were officials who might be able to intercede on your behalf and you trusted them and there were magicians and sorcerers and wizards and soothsayers and oracles and prophets and enlightened ones.
+
+---
+<center>
+[ <- ](00000) | [ -> ](00002)
+
+![](https://posthumanist.net.s3.amazonaws.com/public/tensor.jpg)
+</center>

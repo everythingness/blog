@@ -1,0 +1,35 @@
+menu: no
+page: yes
+title: clash
+permalink: phd/clash
+date: 2018-12-22
+tags: phd, punk, theology
+
+# the clash 
+
+## by the clash
+
+i sometimes think the best thing about the clash was their name (and their version of police and thieves) but i briefly thought it would be be cute if you could construct a punk manifesto using the titles of the songs on the first eponymous clash LP — but i'm not sure i can make it work[^1].
+
+### Side One
+
+1. **Janie Jones**  about the problem of love and sex
+     I don't really like this song and I didn't know who Janie Jones was at the time and now that I do know, what I don't know is why you would write a song about her.   
+2. **Remote Control** well there is the problem of institutions...?  
+3. **I'm So Bored with the USA** there is definitely a problem with American culture and politics and how Amerika influences culture, politics and language... but now the problem is now much bigger than America.
+4. **White Riot** about the problem of racism ...  
+5. **Hate and War** about the problem of violence ...?  
+6. **What's My Name** about the problem of God...?  
+7. **Deny** about the problem of scientism?  
+8. **London's Burning**  ...  about the problems and uses of drugs
+
+### Side Two  
+
+1. **Career Opportunities** about the problem of money and work and working for money  
+2. **Cheat** about the problem of ethics?  
+3. **Protex Blue** is a song about condoms so this could be about the problem of natalism?  
+4. **Police & Thieves** about the problem of power?  
+5. **48 Hours** ...  about the problem of 'leisure' and work
+6. **Garageland** about the problem of institutions — about not being part of or operating (partially) inside an institution but thinking and acting outside of it — and about the establishment's reaction to such a strategy (Charles Shaar Murray in the NME : "The Clash are the kind of garage band who should be returned to the garage immediately, preferably with the engine running.")
+
+[^1]: I tried a similar trick with Tristan Tzara's Dada manifesto (replacing the word 'dada' with 'punk theology') and I couldn't get it to work either.

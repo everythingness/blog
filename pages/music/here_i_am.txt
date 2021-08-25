@@ -1,0 +1,20 @@
+page : yes
+menu : no
+permalink : music/here-i-am
+
+# here i am
+
+**talking heads : artists only/stay hungry/air (live)**   
+from 'the name of this band is talking heads'   
+(vinyl rip)
+
+>here's that rhythm again   
+here's my shoulder blade   
+here's the sound i made   
+here's the picture i saved   
+here i am   
+here. i. am. 
+
+here we go.
+
+ <audio autoplay src="http://johannesk.com.s3.amazonaws.com/talking%20heads%20-%20artists%20only_stay%20hungry_air%20(live)%20(vinyl%20rip).mp3" preload controls></audio>
